@@ -1,2 +1,4 @@
-# Old-Looks
-An e-commerce website with the aim to bring vintage-style clothing to the modern era.
+# Old-Looks: O velho no novo
+**Um site de e-commerce com o objetivo de trazer roupas de estilo vintage para a modernidade.**
+
+*Apenas para propositos educacionais de treinamento.*
